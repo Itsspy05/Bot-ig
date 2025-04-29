@@ -1,4 +1,4 @@
-name: Run IG Views Bot
+name: Bot-ig
 
 on:
   push:
